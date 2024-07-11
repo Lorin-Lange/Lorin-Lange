@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 I'm a software developer who uses mostly Haskell, C/C++ and SQL.
 For Android and Spring Boot development I use Kotlin and Java.
 I'd like to learn more about Prolog.
-I know the basics of Linux and Bash.
+I know the basics of Linux and Bash. I use it on servers (Debian, Ubuntu) and on my desktop (Fedora).
