@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a software developer who uses mostly Haskell, C/C++, Kotlin, Java, Android, Spring Boot, Prolog, SQL and Linux.
+I'm a software developer who uses mostly Haskell, C/C++ and SQL.
+For Android and Spring Boot development I use Kotlin and Java.
+I'd like to learn more about Prolog.
+I know the basics of Linux and Bash.
