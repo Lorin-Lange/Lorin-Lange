@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a software developer who uses mostly Haskell, C++, Kotlin, Java and C.
-For Android and Spring Boot development I use Kotlin and Java. Also, I know the basics of relational database systems including SQL, like PostgreSQL, SQLite, MariaDB and MySQL.
-I'd like to learn more about Prolog.
+For Android and Spring Boot development I use Kotlin and Java. Also, I know the basics of relational database systems such as SQL, like PostgreSQL, SQLite, MariaDB and MySQL.
+I like and I'd like to learn more about Prolog.
 I know the basics of Linux and Bash, too. I use it on servers (Debian, Ubuntu) and on my desktop (Fedora).
