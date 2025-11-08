@@ -4,7 +4,7 @@ I'm a software developer who uses mostly Haskell, Kotlin, Java, Rust and last bu
 For Android and Spring Boot development I use Kotlin and Java. Also, I know the basics of relational database systems like PostgreSQL, SQLite, MariaDB and MySQL such as SQL and 
 database normalization.
 I like Prolog and I'd like to learn more of it and about it.
-I know the basics of Linux and Bash, too. I use it on servers (Debian, Ubuntu) and on my desktop (Fedora).
+I know the basics of Linux and Bash, too. I use it on servers (Debian, Ubuntu, RHEL) and on my desktop (Fedora).
 
 [![](https://img.shields.io/badge/Neovim-informational?style=flat&logo=neovim)](https://neovim.io/)
 
