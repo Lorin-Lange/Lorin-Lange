@@ -6,8 +6,7 @@ database normalization.
 I like Prolog and I'd like to learn more of it and about it.
 I know the basics of Linux and Bash, too. I use it on servers (Debian, Ubuntu, RHEL) and on my desktop (Fedora).
 
-[![](https://img.shields.io/badge/Neovim-informational?style=flat&logo=neovim)](https://neovim.io/)
-
+[![](https://img.shields.io/badge/Neovim-informational?style=flat&logo=neovim)](https://neovim.io/) | 
 [![](https://img.shields.io/badge/Debian-informational?style=flat&logo=debian)](https://www.debian.org/)
 [![](https://img.shields.io/badge/Fedora_Linux-informational?style=flat&logo=fedora)](https://fedoraproject.org/)
 
